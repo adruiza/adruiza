@@ -1,15 +1,15 @@
-### 🙋🏽‍♂️ Pronouns:
+### 🙋🏽‍♂️ Pronouns
 
 He / His / Him.
 
-### 💭 Interests:
+### 💭 Interests
 
 Java EE development, GitOps, system administration and cloud technologies.
 
-### 😎 About me:
+### 😎 About me
 
 I'm fascinated by roller coasters, flat rides, and every aspect of achieving theme park immersion, at an engineering level.
 
-### 💼 Current position:
+### 💼 Current position
 
 Software Integration Engineer at [Red Hat](https://www.redhat.com).
