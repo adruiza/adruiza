@@ -1,16 +1,15 @@
-### Hi there 👋
+### 🙋🏽‍♂️ Pronouns:
 
-<!--
-**adruiza/adruiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+He / His / Him
 
-Here are some ideas to get you started:
+### 💭 Interests:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java EE development, GitOps, system administration and cloud technologies
+
+### 😎 About me:
+
+I'm fascinated by roller coasters, flat rides, and every aspect of achieving theme park immersion, at an engineering level.
+
+### 💼 Current position:
+
+Software Integration Engineer at @RedHatOfficial
