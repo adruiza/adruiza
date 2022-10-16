@@ -1,6 +1,6 @@
 ### 🙋🏽‍♂️ Pronouns
 
-He / His / Him
+He / Him / His
 
 ### 💭 Interests
 
